@@ -1,0 +1,62 @@
+body {
+    color: #453321;
+    background-color: #ffdab9;
+    font-family: Glory, sans-serif;
+    font-size: 20px;
+    line-height: 1.6;
+    margin: 0;
+}
+ h1, h2, h3 {
+    font-family: Merriweather, serif;
+    color: #800000   
+}
+h1 {
+    text-align: center;
+    margin: 0; 
+    color: whitesmoke;
+     }
+h2 {
+    text-align: left;          
+    }
+
+.hlavicka { 
+    padding: 50px 30px;    
+    background-color: #453321; }
+
+.paticka {
+    background-color: #290e14;
+    color: whitesmoke;
+    text-align: center;
+    padding: 20px 0;}
+
+section {
+        padding: 50px 15%;
+        overflow: auto;
+    }
+
+.zakladni h2  {
+    padding-top: 30px;
+}
+.vzdelani, .jazyky, .site {
+    background-color: cornsilk;
+    margin: 0
+}
+.vzdelani, .praxe, .jazyky, .dalsi, .site h2 {
+    margin: 0;
+}
+.profil_foto {
+    width: 350px; 
+    border-radius: 25px; 
+    float: left; 
+    margin: 30px 150px 0 0;    
+    border: solid 2px #290e14;
+         
+}
+.odsazeni  {
+    text-align: right;
+    padding-left: 50px;
+}
+
+        
+
+
